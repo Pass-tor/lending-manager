@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Personal Lending Manager",
+    "slug": "lending-manager",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "ios": { "supportsTablet": true, "bundleIdentifier": "com.example.lendingmanager" },
+    "android": { "package": "com.example.lendingmanager" }
+  }
+}
